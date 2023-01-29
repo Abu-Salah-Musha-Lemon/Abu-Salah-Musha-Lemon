@@ -93,6 +93,9 @@
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=abu-salah-musha-lemon&show_icons=true&locale=en&layout=compact"
         alt="abu-salah-musha-lemon" />
+    <img align = "right"
+         src="	https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"
+         alt="abu-salah-musha-lemon"/>
 </p>
 
 <p>
