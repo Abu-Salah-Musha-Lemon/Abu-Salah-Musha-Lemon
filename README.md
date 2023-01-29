@@ -105,7 +105,8 @@
         src="https://github-readme-stats.vercel.app/api?username=abu-salah-musha-lemon&show_icons=true&locale=en"
         alt="abu-salah-musha-lemon" />
     -->
-    
+[![Abu-Salah-Musha-Lemon GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=abu-salah-musha-lemon&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 
     
 </p>
