@@ -90,18 +90,24 @@
 </p>
 
 <p>
-    <img align="left"
+   <!-- <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=abu-salah-musha-lemon&show_icons=true&locale=en&layout=compact"
         alt="abu-salah-musha-lemon" />
-    <img align = "right"
-         src="	https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"
+    -->
+    <img align = "left"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-salah-musha-lemon&theme=blue-green"
          alt="abu-salah-musha-lemon"/>
+
 </p>
 
 <p>
-    &nbsp;<img align="center"
+    <!--&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=abu-salah-musha-lemon&show_icons=true&locale=en"
         alt="abu-salah-musha-lemon" />
+    -->
+    
+
+    
 </p>
 
 <p>
