@@ -28,6 +28,9 @@
         <a href="https://www.artstation.com/lemonahmed9" target="blank"><img align="center"
             src="https://cdn.worldvectorlogo.com/logos/artstation-1.svg"
             alt="lemonahmed9" height="30" width="40" /></a>
+    <a href="https://www.figma.com/files/user/1178671692250707329?fuid=1178671692250707329" target="blank"><img align="center"
+            src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+            alt="ASM-Lemon" height="30" width="40" /></a>
     <a href="https://discord.gg/Lemon Ahmed#1326" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt="Lemon Ahmed#1326" height="30" width="40" /></a>
