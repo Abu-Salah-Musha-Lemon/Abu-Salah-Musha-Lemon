@@ -34,7 +34,7 @@
     <a href="https://discord.gg/Lemon Ahmed#1326" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt="Lemon Ahmed#1326" height="30" width="40" /></a>
-            <a href="https://www.youtube.com/c/ucujrvadp9b0t9aiadz2eavw?sub_confirmaiton=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucujrvadp9b0t9aiadz2eavw?sub_confirmaiton=1" height="30" width="40" /></a>
+            <a href="https://www.youtube.com/channel/UCuJrVADp9B0T9AIadz2eAVw?sub_confirmaiton=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucujrvadp9b0t9aiadz2eavw?sub_confirmaiton=1" height="30" width="40" /></a>
     
 </p>
 
