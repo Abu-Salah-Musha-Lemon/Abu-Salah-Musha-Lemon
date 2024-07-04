@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <br />
 <p align="left">
-    <a href="https://linkedin.com/in/abu-salah-musha-lemon-2962b725a" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/abu-salah-musha-lemon" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="abu-salah-musha-lemon-2962b725a" height="30" width="40" /></a>
     <a href="https://fb.com/lemonahmed.512" target="blank"><img align="center"
