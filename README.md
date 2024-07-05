@@ -45,7 +45,7 @@
             width="40" height="40" />
     </a>
         <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+        <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-64.svg"
             alt="photoshop" width="40" height="40" />
     </a>
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
