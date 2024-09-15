@@ -1,9 +1,6 @@
 ![MasterHead](https://wallpaperaccess.com/full/2471303.gif)
 <h1 align="center">Hi 👋, I'm Abu Salah Musha Lemon</h1>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?
-    font-Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Abu+Salah+Musha+lemon!!;" />
-</h1>
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="280"
     src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
@@ -105,9 +102,7 @@
 
 
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abu-salah-musha-lemon" alt="abu-salah-musha-lemon"></a> 
-</p>
+
 <p>
    <!-- <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=abu-salah-musha-lemon&show_icons=true&locale=en&layout=compact"
@@ -126,6 +121,11 @@
 
 
     
+</p>
+<p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"> &nbsp;
+        <img src="https://github-profile-trophy.vercel.app/?username=abu-salah-musha-lemon" alt="abu-salah-musha-lemon">
+    </a> 
 </p>
 <!--
 <p>
