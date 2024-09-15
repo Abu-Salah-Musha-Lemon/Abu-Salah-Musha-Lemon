@@ -14,7 +14,7 @@
 [https://github.com/Abu-Salah-Musha-Lemon](https://github.com/Abu-Salah-Musha-Lemon)
 - 📫 How to reach me **lemonahmed512@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗Connect with me:</h3>
 <br />
 <p align="left">
     <a href="https://linkedin.com/in/abu-salah-musha-lemon" target="blank"><img align="center"
@@ -120,7 +120,7 @@
     </p>
 </p>
 
-<br>
+<br/>
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"> &nbsp;
