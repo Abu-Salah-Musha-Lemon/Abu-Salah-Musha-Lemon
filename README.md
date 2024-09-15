@@ -121,7 +121,7 @@
 </p>
 
 <br/>
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="left">🏆 GitHub Trophies</h3>
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"> &nbsp;
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=abu-salah-musha-lemon" alt="abu-salah-musha-lemon">
