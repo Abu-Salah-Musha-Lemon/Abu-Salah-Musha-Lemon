@@ -102,7 +102,7 @@
 
 
 </p>
-
+📊 GitHub Stats
 <p>
    <!-- <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=abu-salah-musha-lemon&show_icons=true&locale=en&layout=compact"
@@ -111,17 +111,14 @@
     <img align = "left"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-salah-musha-lemon&theme=blue-green"
          alt="abu-salah-musha-lemon"/>
-
 </p>
 
 <p>
     &nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=abu-salah-musha-lemon&show_icons=true&theme=transparent"
         alt="abu-salah-musha-lemon" />
-
-
-    
 </p>
+🏆 GitHub Trophies
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"> &nbsp;
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=abu-salah-musha-lemon" alt="abu-salah-musha-lemon">
