@@ -1,7 +1,9 @@
 ![MasterHead](https://wallpaperaccess.com/full/2471303.gif)
 <h1 align="center">Hi 👋, I'm Abu Salah Musha Lemon</h1>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fe9172d4c1cdc25319390928e1100e7b086334c6c5af3df9433f8be754afcc7c/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d5269676874656f75732673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d34303030266c696e65733d48692b5468657265212bf09f918b3b2b49276d2b506564726f2b4d756e697a213b"><img src="https://camo.githubusercontent.com/fe9172d4c1cdc25319390928e1100e7b086334c6c5af3df9433f8be754afcc7c/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d5269676874656f75732673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d34303030266c696e65733d48692b5468657265212bf09f918b3b2b49276d2b506564726f2b4d756e697a213b" data-canonical-src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+Abu+Salah+Musha+lemon!;" style="max-width: 100%;">
-</a>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?
+    font-Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Abu+Salah+Musha+lemon!!;" />
+</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="280"
     src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
