@@ -117,7 +117,7 @@
     &nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=abu-salah-musha-lemon&show_icons=true&theme=transparent"
         alt="abu-salah-musha-lemon" />
-</p>
+</p><br>
 🏆 GitHub Trophies
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"> &nbsp;
