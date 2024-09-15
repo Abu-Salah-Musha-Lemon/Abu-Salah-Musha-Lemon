@@ -124,7 +124,7 @@
 </p>
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"> &nbsp;
-        <img src="https://github-profile-trophy.vercel.app/?username=abu-salah-musha-lemon" alt="abu-salah-musha-lemon">
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=abu-salah-musha-lemon" alt="abu-salah-musha-lemon">
     </a> 
 </p>
 <!--
