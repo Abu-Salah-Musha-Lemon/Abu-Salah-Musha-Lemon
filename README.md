@@ -134,3 +134,17 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-salah-musha-lemon&"
         alt="abu-salah-musha-lemon" />
 </p> -->
+
+## GitHub Activity
+
+<p align="center">
+<img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abu-salah-musha-lemon&theme=algolia" alt="GitHub Streak" />
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abu-salah-musha-lemon&theme=algolia" style="width: 48%; margin-bottom: 5px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abu-salah-musha-lemon&theme=algolia" style="width: 48%; height: 100%; margin-bottom: 5px;">
+</p>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abu-salah-musha-lemon&theme=algolia" style="width: 48%; margin-bottom: 5px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abu-salah-musha-lemon&theme=algolia&utcOffset=8" style="width: 48%; margin-bottom: 10px;">
+</p>
