@@ -17,26 +17,42 @@
 <h3 align="left">🔗Connect with me:</h3>
 <br />
 <p align="left">
-    <a href="https://linkedin.com/in/abu-salah-musha-lemon" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/abu-salah-musha-lemon" target="blank">
+        <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="abu-salah-musha-lemon-2962b725a" height="30" width="40" /></a>
-    <a href="https://fb.com/lemonahmed.512" target="blank"><img align="center"
+            alt="abu-salah-musha-lemon-2962b725a" height="30" width="40" />
+    </a>
+    <a href="https://fb.com/lemonahmed.512" target="blank">
+        <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="lemonahmed.512" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/asmlemon" target="blank"><img align="center"
+            alt="lemonahmed.512" height="30" width="40" />
+    </a>
+    <a href="https://codeforces.com/profile/asmlemon" target="blank">
+        <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-            alt="asmlemon" height="30" width="40" /></a>
-        <a href="https://www.artstation.com/abu-salah-musha-lemon" target="blank"><img align="center"
+            alt="asmlemon" height="30" width="40" />
+    </a>
+    <a href="https://www.artstation.com/abu-salah-musha-lemon" target="blank">
+        <img align="center"
             src="https://cdn.worldvectorlogo.com/logos/artstation-1.svg"
-            alt="lemonahmed9" height="30" width="40" /></a>
-    <a href="https://www.figma.com/files/user/1178671692250707329?fuid=1178671692250707329" target="blank"><img align="center"
+            alt="lemonahmed9" height="30" width="40" />
+    </a>
+    <a href="https://www.figma.com/files/user/1178671692250707329?fuid=1178671692250707329" target="blank">
+        <img align="center"
             src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
-            alt="ASM-Lemon" height="30" width="40" /></a>
-    <a href="https://discord.gg/Lemon Ahmed#1326" target="blank"><img align="center"
+            alt="ASM-Lemon" height="30" width="40" />
+    </a>
+    <a href="https://discord.gg/Lemon Ahmed#1326" target="blank">
+        <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="Lemon Ahmed#1326" height="30" width="40" /></a>
-            <a href="https://www.youtube.com/channel/UCuJrVADp9B0T9AIadz2eAVw?sub_confirmaiton=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucujrvadp9b0t9aiadz2eavw?sub_confirmaiton=1" height="30" width="40" /></a>
-            <a href="https://www.behance.net/abu-salah-musha" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Behance.svg" alt="https://www.behance.net/abu-salah-musha" height="30" width="40" /></a>
+            alt="Lemon Ahmed#1326" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCuJrVADp9B0T9AIadz2eAVw?sub_confirmaiton=1" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucujrvadp9b0t9aiadz2eavw?sub_confirmaiton=1" height="30" width="40" />
+    </a>
+   <a href="https://www.behance.net/abu-salah-musha" target="blank">
+       <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Behance.svg" alt="https://www.behance.net/abu-salah-musha" height="30" width="40" />
+   </a>
     
 </p>
 
