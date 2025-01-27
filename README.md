@@ -9,11 +9,12 @@
         alt="abu-salah-musha-lemon" />
 </p>
 
-- 🌱 I’m currently learning **React js** 
+- 🌱 I’m currently learning **React js**
+- 👨‍💻 Portfolio => [https://abu-salah-musha-lemon.github.io/Personal-Portfolio/](https://abu-salah-musha-lemon.github.io/Personal-Portfolio/)
 - 👨‍💻 All of my projects are available at<br>
 [https://github.com/Abu-Salah-Musha-Lemon](https://github.com/Abu-Salah-Musha-Lemon)
 - 📫 How to reach me **lemonahmed512@gmail.com**<br>
-- 👨‍💻 Portfolio => [https://abu-salah-musha-lemon.github.io/Personal-Portfolio/]
+
 
 <h3 align="left">🔗Connect with me:</h3>
 <br />
