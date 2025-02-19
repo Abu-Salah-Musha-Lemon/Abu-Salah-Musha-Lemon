@@ -24,7 +24,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="abu-salah-musha-lemon-2962b725a" height="30" width="40" />
     </a>
-    <a href="https://fb.com/lemonahmed.512" target="blank">
+    <a href="https://www.facebook.com/AbuSalahMushaLemon" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="lemonahmed.512" height="30" width="40" />
