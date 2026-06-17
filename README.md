@@ -1,169 +1,132 @@
-![MasterHead](https://wallpaperaccess.com/full/2471303.gif)
-<h1 align="center">Hi 👋, I'm Abu Salah Musha Lemon</h1>
+<div align="center">
 
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="280"
-    src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=abu-salah-musha-lemon&label=Profile%20views&color=0e75b6&style=flat"
-        alt="abu-salah-musha-lemon" />
-</p>
+# Abu Salah Musha Lemon
+### Full-Stack Developer · Graphic Designer · Creative Technologist
+**Dhaka, Bangladesh** &nbsp;|&nbsp; [lemonahmed512@gmail.com](mailto:lemonahmed512@gmail.com)
 
-- 🌱 I’m currently learning **React js**
-- 👨‍💻 Portfolio => [https://abu-salah-musha-lemon.github.io/Personal-Portfolio/](https://abu-salah-musha-lemon.github.io/Personal-Portfolio/)
-- 👨‍💻 All of my projects are available at<br>
-[https://github.com/Abu-Salah-Musha-Lemon](https://github.com/Abu-Salah-Musha-Lemon)
-- 📫 How to reach me **lemonahmed512@gmail.com**<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abu-salah-musha-lemon)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://abu-salah-musha-lemon.github.io/Personal-Portfolio/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/abu-salah-musha)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/abu-salah-musha-lemon)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuJrVADp9B0T9AIadz2eAVw)
 
+</div>
 
-<h3 align="left">🔗Connect with me:</h3>
-<br />
-<p align="left">
-    <a href="https://linkedin.com/in/abu-salah-musha-lemon" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="abu-salah-musha-lemon-2962b725a" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/AbuSalahMushaLemon" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="lemonahmed.512" height="30" width="40" />
-    </a>
-    <a href="https://codeforces.com/profile/asmlemon" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-            alt="asmlemon" height="30" width="40" />
-    </a>
-    <a href="https://www.artstation.com/abu-salah-musha-lemon" target="blank">
-        <img align="center"
-            src="https://cdn.worldvectorlogo.com/logos/artstation-1.svg"
-            alt="lemonahmed9" height="30" width="40" />
-    </a>
-    <a href="https://www.figma.com/files/user/1178671692250707329?fuid=1178671692250707329" target="blank">
-        <img align="center"
-            src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
-            alt="ASM-Lemon" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/Lemon Ahmed#1326" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="Lemon Ahmed#1326" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCuJrVADp9B0T9AIadz2eAVw?sub_confirmaiton=1" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucujrvadp9b0t9aiadz2eavw?sub_confirmaiton=1" height="30" width="40" />
-    </a>
-   <a href="https://www.behance.net/abu-salah-musha" target="blank">
-       <img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Behance.svg" alt="https://www.behance.net/abu-salah-musha" height="30" width="40" />
-   </a>
-    
-</p>
+---
 
-<h3 align="left">⚒️ Languages and Tools ⚒️ </h3>
-<p align="left">
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
-            width="40" height="40" />
-    </a>
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-64.svg"
-            alt="photoshop" width="40" height="40" />
-    </a>
-        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" />
-    </a>
-     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" />
-    </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
-            alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> 
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"> 
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-       <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="laravel" width="40" height="40"> 
-    </a>
+## About Me
 
+I'm a versatile **Full-Stack Developer and Graphic Designer** with hands-on industry experience bridging creative design and technical development. At TELCo, I wore both hats simultaneously — managing IT infrastructure while producing an extensive range of brand and print materials. I build things that are functional *and* look good.
 
-</p>
-<h3 align="left">📊 GitHub Stats</h3>
-<p>
-    <p>
-   <!-- <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=abu-salah-musha-lemon&show_icons=true&locale=en&layout=compact"
-        alt="abu-salah-musha-lemon" />
-    -->
-        <img align = "left"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-salah-musha-lemon&theme=blue-green"
-             alt="abu-salah-musha-lemon"/>
-    </p>
-    <p>
-        &nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=abu-salah-musha-lemon&show_icons=true&theme=transparent"
-            alt="abu-salah-musha-lemon" />
-    </p>
-</p>
+Currently pursuing my **MSc in CSE at Jagannath University**, deepening my expertise in software engineering while actively developing production-grade projects and exploring creative technology.
 
-<br/>
-<br/>
-<br/>
-<h3 align="left">🏆 GitHub Trophies</h3>
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"> &nbsp;
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=abu-salah-musha-lemon" alt="abu-salah-musha-lemon">
-    </a> 
-</p>
-<!--
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-salah-musha-lemon&"
-        alt="abu-salah-musha-lemon" />
-</p> -->
+---
 
-## GitHub Activity
+## 🛠 Tech Stack
 
-<p align="center">
-<img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abu-salah-musha-lemon&theme=algolia" alt="GitHub Streak" />
+**Languages**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abu-salah-musha-lemon&theme=algolia" style="width: 48%; margin-bottom: 5px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abu-salah-musha-lemon&theme=algolia" style="width: 48%; height: 100%; margin-bottom: 5px;">
-</p>
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abu-salah-musha-lemon&theme=algolia" style="width: 48%; margin-bottom: 5px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abu-salah-musha-lemon&theme=algolia&utcOffset=8" style="width: 48%; margin-bottom: 10px;">
-</p>
+**Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Design & Creative Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📦 [StockGenie — Inventory & POS System](https://github.com/Abu-Salah-Musha-Lemon/StockGenie)
+> **Laravel 11 · PHP 8.2 · Bootstrap · jQuery · dompdf**
+
+A production-ready inventory management and point-of-sale solution built for small businesses. Features include real-time stock tracking, seamless POS transactions, user authentication, PDF report generation, and shopping cart management.
+
+---
+
+### 🛒 [E-Commerce Platform](https://github.com/Abu-Salah-Musha-Lemon/e-commerce-app)
+> **Laravel · Bootstrap 5 · DataTables · PHP**
+
+A fully functional e-commerce platform with product/category CRUD, admin and user authentication, order placement with manual payment handling, and dynamic data management via DataTables.
+
+---
+
+## 💼 Professional Experience
+
+**Admin & IT Coordinator** — [TELCo](https://www.telco.com.bd) *(Nov 2024 – Jan 2026)*
+
+- Managed company IT infrastructure, network systems, and digital workflows
+- Built and maintained the company website on WordPress (Divi)
+- Produced a wide range of design deliverables: social media graphics, brochures, billboards, event tickets, product catalogs, packaging labels, and branded merchandise
+- Aligned branding strategy across marketing and engineering teams
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| MSc in Computer Science & Engineering | Jagannath University | 2025 – Present |
+| BSc in Computer Science & Engineering | National University (Ideal College, Dhaka) | 2022 |
+| HSC — Science | Shahid Begum Sheikh Fazilatun Nessa Mujib Govt. College | 2018 |
+| SSC — Science | Narinda Government High School | 2016 |
+
+---
+
+## 📜 Certifications
+
+- **UI/UX Design with Figma** — 5+ Real World Projects *(Udemy)*
+- **Graphic Design with Canva & Freelancing** *(Udemy)*
+- **Microsoft Designer Masterclass: AI-based Design** *(Udemy)*
+- **Career Essentials in Generative AI** — Microsoft & LinkedIn
+- **Career Essentials in Software Development** — Microsoft & LinkedIn
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abu-salah-musha-lemon&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-salah-musha-lemon&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abu-salah-musha-lemon&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed)]
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to freelance, collaboration, and full-time opportunities.*
+**Let's build something great together.**
+
+</div>
