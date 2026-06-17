@@ -75,7 +75,7 @@ A fully functional e-commerce platform with product/category CRUD, admin and use
 - Aligned branding strategy across marketing and engineering teams
 
 ---
-
+<!---
 ## 🎓 Education
 
 | Degree | Institution | Year |
@@ -86,6 +86,7 @@ A fully functional e-commerce platform with product/category CRUD, admin and use
 | SSC — Science | Narinda Government High School | 2016 |
 
 ---
+-->
 
 ## 📜 Certifications
 
@@ -98,29 +99,39 @@ A fully functional e-commerce platform with product/category CRUD, admin and use
 ---
 
 ## 📊 GitHub Stats
-
+<!--
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=abu-salah-musha-lemon&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-salah-musha-lemon&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
+-->
+<p align="center">
+<img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abu-salah-musha-lemon&theme=algolia" alt="GitHub Streak" />
 
-<div align="center">
-
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abu-salah-musha-lemon&theme=tokyonight" />
-
-</div>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abu-salah-musha-lemon&theme=algolia" style="width: 48%; margin-bottom: 5px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abu-salah-musha-lemon&theme=algolia" style="width: 48%; height: 100%; margin-bottom: 5px;">
+</p>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abu-salah-musha-lemon&theme=algolia" style="width: 48%; margin-bottom: 5px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abu-salah-musha-lemon&theme=algolia&utcOffset=8" style="width: 48%; margin-bottom: 10px;">
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed)]
-
-</div>
+<h3 align="left">🏆 GitHub Trophies</h3>
+<p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"> &nbsp;
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=abu-salah-musha-lemon" alt="abu-salah-musha-lemon">
+    </a> 
+</p>
+<!--
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-salah-musha-lemon&"
+        alt="abu-salah-musha-lemon" />
+</p> -->
 
 ---
 
