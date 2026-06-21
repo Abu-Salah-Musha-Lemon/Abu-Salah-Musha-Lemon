@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a versatile **Full-Stack Developer and Graphic Designer** with hands-on industry experience bridging creative design and technical development. At TELCo, I wore both hats simultaneously — managing IT infrastructure while producing an extensive range of brand and print materials. I build things that are functional *and* look good.
+I'm a versatile **Full-Stack Developer and Graphic Designer** with hands-on industry experience bridging creative design and technical development. At [TELCo](https://www.telco.com.bd), I wore both hats simultaneously — managing IT infrastructure while producing an extensive range of brand and print materials. I build things that are functional *and* look good.
 
 Currently pursuing my **MSc in CSE at Jagannath University**, deepening my expertise in software engineering while actively developing production-grade projects and exploring creative technology.
 
